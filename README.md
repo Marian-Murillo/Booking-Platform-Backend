@@ -4,8 +4,8 @@
 A full-stack booking platform inspired by Airbnb, built to demonstrate real-world product architecture, authentication, role-based access, and reservation logic.
 
 ## 🚀 Live Demo
-- Frontend: https://your-vercel-app.vercel.app  
-- Backend API: https://your-render-api.onrender.com  
+- Frontend: https://booking-platform-frontend-28zk.vercel.app/
+- Backend API: https://booking-platform-backend-95ik.onrender.com 
 
 ---
 
